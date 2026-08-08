@@ -7,4 +7,5 @@ ChromaDB RAG mode for transcript Q&A, in a custom Streamlit UI.
 
 ● Tech: Python, Whisper, Sarvam AI API, LangChain, Mistral AI, ChromaDB, HuggingFace Embeddings, yt-dlp, Streamlit.
 
-![Uploading ChatGPT Image Aug 8, 2026, 02_48_38 PM.png…]()
+<img width="1402" height="1122" alt="ChatGPT Image Aug 8, 2026, 02_48_38 PM" src="https://github.com/user-attachments/assets/f238247e-0a32-4f52-bc34-310845dcd523" />
+
